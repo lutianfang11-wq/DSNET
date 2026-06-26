@@ -1,0 +1,1 @@
+from .ginconv import GINConvNet
